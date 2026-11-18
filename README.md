@@ -25,18 +25,20 @@ Soft palettes, distinct moods, and Discord UI that feels a little more yours.
 <table>
   <tr>
     <td width="190" align="center">
-      <strong>NEEDY STREAMER<br>OVERLOAD</strong>
-      <br><sub>NEEDY GIRL</sub>
+      <a href="https://store.steampowered.com/app/1451940/NEEDY_STREAMER_OVERLOAD/">
+        <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451940/ss_c60613e817ed66dd645cc0c22b037ceb148f16d6.1920x1080.jpg" alt="KAngel in an official NEEDY STREAMER OVERLOAD stream scene" width="180">
+      </a>
+      <br><sub>NEEDY STREAMER OVERLOAD</sub>
     </td>
     <td>
-      <strong><a href="./needy-streamer-overload/needy-girl.theme.css">Needy Girl</a></strong>
+      <strong><a href="./nso-amechan/needy-girl.theme.css">Needy Girl</a></strong>
       <br>
       A pastel retro-desktop re-skin inspired by <em>NEEDY STREAMER OVERLOAD</em>:
       pixel-style text and profile framing, soft lilac and mint window surfaces,
       candy-pink details, and dark ink for readable text.
       <br><br>
       <sub>
-        <a href="./needy-streamer-overload/README.md">Theme details &amp; install notes</a>
+        <a href="./nso-amechan/README.md">Theme details &amp; install notes</a>
         &nbsp;·&nbsp; Pink / Lilac / Mint
       </sub>
     </td>
@@ -67,11 +69,8 @@ Alternatively, paste the CSS into Vencord's **Settings → Vencord → Themes �
 - The Vencord identity artwork is from the
   [official Vencord website](https://vencord.dev/) and is displayed to identify
   the platform these themes are made for.
-- **Needy Girl** is inspired by
-  [yunffee/NSO-inspired-discord-theme](https://github.com/yunffee/NSO-inspired-discord-theme).
-  It is an original stylesheet and does not include that project's artwork or
-  assets.
-
+- The NSO screenshot is hosted by Steam and belongs to the game's respective
+  rights holders; it is shown as a visual reference for the theme.
 <div align="center">
 
 <sub>Made by Yukata No</sub>
